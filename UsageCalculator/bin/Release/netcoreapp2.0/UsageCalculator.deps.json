@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "UsageCalculator/1.0.0": {
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Microsoft.ApplicationInsights": "2.4.0.0"
+        },
+        "runtime": {
+          "UsageCalculator.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "runtime": {
+          "Entities.dll": {}
+        }
+      },
+      "Microsoft.ApplicationInsights/2.4.0.0": {
+        "runtime": {
+          "Microsoft.ApplicationInsights.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsageCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.ApplicationInsights/2.4.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

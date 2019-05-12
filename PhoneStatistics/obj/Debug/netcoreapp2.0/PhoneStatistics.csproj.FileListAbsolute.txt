@@ -1,0 +1,16 @@
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\bin\Debug\netcoreapp2.0\PhoneStatistics.deps.json
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\bin\Debug\netcoreapp2.0\PhoneStatistics.runtimeconfig.json
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\bin\Debug\netcoreapp2.0\PhoneStatistics.runtimeconfig.dev.json
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\bin\Debug\netcoreapp2.0\PhoneStatistics.dll
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\bin\Debug\netcoreapp2.0\PhoneStatistics.pdb
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\obj\Debug\netcoreapp2.0\PhoneStatistics.csprojAssemblyReference.cache
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\obj\Debug\netcoreapp2.0\PhoneStatistics.csproj.CoreCompileInputs.cache
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\obj\Debug\netcoreapp2.0\PhoneStatistics.AssemblyInfoInputs.cache
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\obj\Debug\netcoreapp2.0\PhoneStatistics.AssemblyInfo.cs
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\obj\Debug\netcoreapp2.0\PhoneStatistics.dll
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\obj\Debug\netcoreapp2.0\PhoneStatistics.pdb
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\bin\Debug\netcoreapp2.0\Entities.dll
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\bin\Debug\netcoreapp2.0\UsageCalculator.dll
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\bin\Debug\netcoreapp2.0\UsageCalculator.pdb
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\bin\Debug\netcoreapp2.0\Entities.pdb
+c:\users\avadiri\source\repos\PhoneStatistics\PhoneStatistics\obj\Debug\netcoreapp2.0\PhoneStatistics.csproj.CopyComplete

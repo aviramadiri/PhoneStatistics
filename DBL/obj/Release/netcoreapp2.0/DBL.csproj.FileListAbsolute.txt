@@ -1,0 +1,9 @@
+C:\Users\avadiri\source\repos\PhoneStatistics\DBL\bin\Release\netcoreapp2.0\DBL.deps.json
+C:\Users\avadiri\source\repos\PhoneStatistics\DBL\bin\Release\netcoreapp2.0\DBL.dll
+C:\Users\avadiri\source\repos\PhoneStatistics\DBL\bin\Release\netcoreapp2.0\DBL.pdb
+C:\Users\avadiri\source\repos\PhoneStatistics\DBL\obj\Release\netcoreapp2.0\DBL.csprojAssemblyReference.cache
+C:\Users\avadiri\source\repos\PhoneStatistics\DBL\obj\Release\netcoreapp2.0\DBL.csproj.CoreCompileInputs.cache
+C:\Users\avadiri\source\repos\PhoneStatistics\DBL\obj\Release\netcoreapp2.0\DBL.AssemblyInfoInputs.cache
+C:\Users\avadiri\source\repos\PhoneStatistics\DBL\obj\Release\netcoreapp2.0\DBL.AssemblyInfo.cs
+C:\Users\avadiri\source\repos\PhoneStatistics\DBL\obj\Release\netcoreapp2.0\DBL.dll
+C:\Users\avadiri\source\repos\PhoneStatistics\DBL\obj\Release\netcoreapp2.0\DBL.pdb

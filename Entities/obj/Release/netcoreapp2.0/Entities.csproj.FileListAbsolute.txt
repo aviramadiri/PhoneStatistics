@@ -1,0 +1,8 @@
+c:\users\avadiri\source\repos\PhoneStatistics\Entities\bin\Release\netcoreapp2.0\Entities.deps.json
+c:\users\avadiri\source\repos\PhoneStatistics\Entities\bin\Release\netcoreapp2.0\Entities.dll
+c:\users\avadiri\source\repos\PhoneStatistics\Entities\bin\Release\netcoreapp2.0\Entities.pdb
+c:\users\avadiri\source\repos\PhoneStatistics\Entities\obj\Release\netcoreapp2.0\Entities.csproj.CoreCompileInputs.cache
+c:\users\avadiri\source\repos\PhoneStatistics\Entities\obj\Release\netcoreapp2.0\Entities.AssemblyInfoInputs.cache
+c:\users\avadiri\source\repos\PhoneStatistics\Entities\obj\Release\netcoreapp2.0\Entities.AssemblyInfo.cs
+c:\users\avadiri\source\repos\PhoneStatistics\Entities\obj\Release\netcoreapp2.0\Entities.dll
+c:\users\avadiri\source\repos\PhoneStatistics\Entities\obj\Release\netcoreapp2.0\Entities.pdb

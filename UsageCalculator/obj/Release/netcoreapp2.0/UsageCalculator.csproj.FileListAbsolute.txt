@@ -1,0 +1,14 @@
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\bin\Release\netcoreapp2.0\UsageCalculator.deps.json
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\bin\Release\netcoreapp2.0\UsageCalculator.dll
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\bin\Release\netcoreapp2.0\UsageCalculator.pdb
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\bin\Release\netcoreapp2.0\Entities.dll
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\bin\Release\netcoreapp2.0\Entities.pdb
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\obj\Release\netcoreapp2.0\UsageCalculator.csprojAssemblyReference.cache
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\obj\Release\netcoreapp2.0\UsageCalculator.csproj.CoreCompileInputs.cache
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\obj\Release\netcoreapp2.0\UsageCalculator.AssemblyInfoInputs.cache
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\obj\Release\netcoreapp2.0\UsageCalculator.AssemblyInfo.cs
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\obj\Release\netcoreapp2.0\UsageCalculator.csproj.CopyComplete
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\obj\Release\netcoreapp2.0\UsageCalculator.dll
+c:\users\avadiri\source\repos\PhoneStatistics\UsageCalculator\obj\Release\netcoreapp2.0\UsageCalculator.pdb
+C:\Users\avadiri\source\repos\PhoneStatistics\UsageCalculator\bin\Release\netcoreapp2.0\Microsoft.ApplicationInsights.dll
+C:\Users\avadiri\source\repos\PhoneStatistics\UsageCalculator\bin\Release\netcoreapp2.0\Microsoft.ApplicationInsights.xml
